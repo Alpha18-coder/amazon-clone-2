@@ -6,7 +6,7 @@
 
 #### Description
 
-This is a new version of Amazon with nice design and features, soon i'll make more.
+This is a new version of Amazon with nice design and features, soon i'll upgrade it.
 
 ##### Set of Tools
 
