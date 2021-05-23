@@ -1,28 +1,16 @@
-# Installation Steps
+# Amazon Clone 2.0
 
-(https://amazon-clone-2-six.vercel.app/
+![Amazon Clone](TemplateScreenshot.png?raw=true "NEXT JS REDUX Amazon ")
 
-## Using npm
+### <a href="https://amazon-clone-2-nomemdh11-alpha18-coder.vercel.app/">LIVE DEMO</a>
 
-Run commands
+#### Description
 
-1) ```npm install```
+This is a new version of Amazon with nice design and features, soon i'll make more.
 
+##### Set of Tools
 
-2) ```npm run dev```
-
-
-## Or using yarn
-
-Run commands 
-
-1) ```npm install --global yarn```
-
-2) ```yarn install```
-
-3) ```yarn run dev```
-
-
-### If you see the window below then you are set to build AMAZON 2.0!
-
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
+- Next Js
+- React Js
+- Redux
+- TailwindCSS
